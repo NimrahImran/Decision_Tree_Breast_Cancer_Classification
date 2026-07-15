@@ -24,7 +24,6 @@ An end-to-end machine learning pipeline that classifies breast tumors as **Malig
 - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
-- Joblib
 
 ## 🔍 Pipeline / Methodology
 1. **Data Loading & Validation** — shape, info, summary statistics
